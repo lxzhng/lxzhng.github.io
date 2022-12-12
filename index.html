@@ -9,30 +9,43 @@
   justify-content: center;
   margin: auto;
   font-family: 'Helvetica Neue', sans-serif;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .grid-cell {
   border: 1px solid black;
   padding: 10px;
   text-align: center;
+  align-items: end;
   width: 100px;
   height: 100px;
+}
+
+.grid-cell button {
+  width: 100%;
+  height: 100%;
+  border: none;
+  background-color: transparent;
+  text-align: center;
 }
 </style>
 </head>
 <body>
 
 <div class="grid">
-  <div class="grid-cell">Placeholder text</div>
-  <div class="grid-cell">Placeholder text</div>
-  <div class="grid-cell">Placeholder text</div>
-  <div class="grid-cell">Placeholder text</div>
-  <div class="grid-cell">Placeholder text</div>
-  <div class="grid-cell">Placeholder text</div>
-  <div class="grid-cell">Placeholder text</div>
-  <div class="grid-cell">Placeholder text</div>
-  <div class="grid-cell">Placeholder text</div>
-</div>
+  <div class="grid-cell"><button onclick="window.open('https://www.google.com')">Placeholder text</button></div>
+  <div class="grid-cell"><button onclick="window.open('https://www.google.com')">Placeholder text</button></div>
+  <div class="grid-cell"><button onclick="window.open('https://www.google.com')">Placeholder text</button></div>
+  <div class="grid-cell"><button onclick="window.open('https://www.google.com')">Placeholder text</button></div>
+  <div class="grid-cell"><button onclick="window.open('https://www.google.com')">Placeholder text</button></div>
+  <div class="grid-cell"><button onclick="window.open('https://www.google.com')">Placeholder text</button></div>
+  <div class="grid-cell"><button onclick="window.open('https://www.google.com')">Placeholder text</button></div>
+  <div class="grid-cell"><button onclick="window.open('https://www.google.com')">Placeholder text</button></div>
+  <div class="grid-cell"><button onclick="window.open('https://www.google.com')">Placeholder text</button></div>
+ </div>
 
 </body>
 </html>

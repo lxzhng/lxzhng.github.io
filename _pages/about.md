@@ -11,4 +11,4 @@ I am an undergraduate at the University of Illinois studying CS and philosophy. 
 
 What motivates me is a belief that humans beings are the coolest beings in this universe. 
 
-Beyond philosophy, I have deep respect for music. Composers like Liszt, Rachmaninoff, and Scriabin seem to communicate things outside of the grasp of rational inquiry. I also like playing around with open-source software (I'm writing this in [Doom Emacs](https://github.com/doomemacs)) and doing graphic design work for anybody who needs it. 
+Beyond philosophy, I have deep respect for music. Composers like Liszt, Rachmaninoff, and Scriabin seem to communicate things outside of the grasp of rational inquiry. I also like playing around with open-source software (I'm writing this in [Doom Emacs](https://github.com/doomemacs) using [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)) and doing graphic design work for anybody who needs it. 

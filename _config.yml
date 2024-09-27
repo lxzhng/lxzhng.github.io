@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Alex Zhang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "CS + Philosophy Junior at UIUC"
+  avatar           : "/assets/images/me.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : # ""
   location         : # "Champaign, Illinois"
   email            :
   links:

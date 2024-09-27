@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Broadly Construed"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Alex Zhang"
-description              : "My website"
+name                     : "Broadly Construed"
+description              : # "My website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -116,7 +116,7 @@ author:
   name             : "Alex Zhang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CS + Philosophy Junior at UIUC"
-  location         : "Champaign, Illinois"
+  location         : # "Champaign, Illinois"
   email            :
   links:
     - label: "Email"

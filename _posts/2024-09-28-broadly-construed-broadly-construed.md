@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Broadly Construed, broadly construed"
 ---
 “Start a blog.” “Your ideas are so interesting—have you thought about starting a blog?” “If you started a blog I would definitely read it.”

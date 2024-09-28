@@ -12,5 +12,5 @@ Soon the snail will stop, and rest, and look back on its trail of words. “This
 
 Slowly, this plane of reason will have slimy trails scratched on its surface. Maybe you, my Only Reader, will look at these trails and think they’re very good trails of words. Maybe you’ll see them for what they are—snail mucus. But in any case the snail has begun its journey and only time can tell what the snail will leave behind. 
 
-To You, not you, but You, with a capital ‘Y’; to that solipsistic truth that you’re truly my Only Reader,
+To You, not you, but You, with a capital ‘Y’; to that solipsistic truth that you’re truly my Only Reader,\
 Alex, snail

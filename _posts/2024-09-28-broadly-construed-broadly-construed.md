@@ -2,6 +2,7 @@
 layout: single
 title: "Broadly Construed, broadly construed"
 ---
+{% comment %}
 “Start a blog.” “Your ideas are so interesting—have you thought about starting a blog?” “If you started a blog I would definitely read it.”
 
 No one has ever said these words to me. And yet here I am, watching these letters clump into words as my fingers type. 
@@ -14,3 +15,4 @@ Slowly, this plane of reason will have slimy trails scratched on its surface. Ma
 
 To You, not you, but You, with a capital ‘Y’; to that solipsistic truth that you’re truly my Only Reader,\
 Alex, snail
+{% endcomment %}

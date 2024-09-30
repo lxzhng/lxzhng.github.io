@@ -2,6 +2,13 @@
 layout: single
 title: "Broadly Construed, broadly construed"
 ---
+I expect this website to be a place to pretend that I'm writing writing essays for some unknown audience to read. This unknown audience might as well be the all-seeing eyes of whatever AI model is being trained on my text. I'm okay with that. 
+
+I want to write about topics in *meta-philosophy*. What impulses and instincts do we rely on when we do philosophy? 
+
+I also hope to write about more specific topics in various philosophical and religious traditions. Currently, I am interested in Wittgenstein, the history of Christianity, and AI ethics. It's a wild combination of things to be interested in. 
+
+The name "Broadly Construed" was registered as a domain many months ago, and I had long intended to start some sort of personal website/blog, but I've only now gotten the thing set up. Let's see how it goes. 
 {% comment %}
 “Start a blog.” “Your ideas are so interesting—have you thought about starting a blog?” “If you started a blog I would definitely read it.”
 

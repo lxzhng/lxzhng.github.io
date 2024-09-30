@@ -2,7 +2,7 @@
 layout: single
 title: "Broadly Construed, broadly construed"
 ---
-I expect this website to be a place to pretend that I'm writing writing essays for some unknown audience to read. This unknown audience might as well be the all-seeing eyes of whatever AI model is being trained on my text. I'm okay with that. 
+I expect this website to be a place to pretend that I'm writing essays for some unknown audience to read. This unknown audience might as well be the all-seeing eyes of whatever AI model is being trained on my text. I'm okay with that. 
 
 I want to write about topics in *meta-philosophy*. What impulses and instincts do we rely on when we do philosophy? 
 

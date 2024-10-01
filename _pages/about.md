@@ -10,12 +10,11 @@ Hello, I'm Alex! I am an undergraduate at the University of Illinois studying CS
 
 Some honors I've received: 
 * Recipient of the [Howard F. Crombie Award](https://philosophy.illinois.edu/news/2024-05-10t155215/department-philosophy-announces-more-recipients-annual-awards) for distinction in philosophy
-* LAS James Scholar Honors
+* LAS James Scholar Honors 
 
-I hope that, by the end of my undergraduate years, I make some meaningful contribution to the field of AI ethics. I currently intend to pursue graduate school in CS, although I am also open to studying law or even going down the bleak, mostly hopeless path of becoming a philosophy professor. 
-
+I hope that, by the end of my undergraduate years, I make some meaningful contribution to the philoosphy of AI. I am also excited by efforts to build theoretical foundations of AI using stuff like category theory, although that is way out of my pay grade. I currently intend to pursue graduate school in CS, although I am also open to studying law or even going down the bleak, mostly hopeless path of becoming a philosophy professor. 
+y
 Outside of school, I help to create a space for Chinese-speaking students to talk about faith, life, and God. I also like to listen to music and sing (poorly).  
-
 
 {% comment %}
 Beyond philosophy, I have deep respect for music. Composers like Liszt, Rachmaninoff, and Scriabin seem to communicate things outside of the grasp of rational inquiry. I also like playing around with open-source software (this website uses the template [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) edited in [Doom Emacs](https://github.com/doomemacs/doomemacs)) and doing graphic design work for anybody who needs it. 

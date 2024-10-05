@@ -14,8 +14,7 @@ Some honors I've received:
 
 I hope that, by the end of my undergraduate years, I make some meaningful contribution to the ethics of AI. I currently intend to pursue graduate school in CS, although I am also open to studying law or even going down the bleak, mostly hopeless path of becoming a philosophy professor. 
 
-Outside of school, I help to create a space for Chinese-speaking students to talk about faith, life, and God. I also like playing around with open-source software (this website uses the template [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) edited with [Doom Emacs](https://github.com/doomemacs/doomemacs) in [Ubuntu](https://ubuntu.com) and doing graphic design work for anybody who needs it. 
-asdfasdfasdfasdf
+Outside of school, I help to create a space for Chinese-speaking students to talk about faith, life, and God. I also like playing around with open-source software (this website uses the template [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) edited with [Doom Emacs](https://github.com/doomemacs/doomemacs) in [Ubuntu](https://ubuntu.com)) and doing graphic design work for anybody who needs it. 
 {% comment %}
 Beyond philosophy, I have deep respect for music. Composers like Liszt, Rachmaninoff, and Scriabin seem to communicate things outside of the grasp of rational inquiry. I also like playing around with open-source software (this website uses the template [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) edited with [Doom Emacs](https://github.com/doomemacs/doomemacs) in [Ubuntu](https://ubuntu.com)) and doing graphic design work for anybody who needs it. 
 {% endcomment %}

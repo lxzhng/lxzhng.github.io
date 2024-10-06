@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 ---
 
-Hello, I'm Alex! 
+
 
 
 {% comment %}
@@ -20,6 +20,5 @@ I hope that, by the end of my undergraduate years, I make some meaningful contri
 
 Outside of school, I help to create a space for Chinese-speaking students to talk about faith, life, and God. I also like playing around with open-source software (this website uses the template [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) edited with [Doom Emacs](https://github.com/doomemacs/doomemacs) in [Ubuntu](https://ubuntu.com)) and doing graphic design work for anybody who needs it. 
 
-
 Beyond philosophy, I have deep respect for music. Composers like Liszt, Rachmaninoff, and Scriabin seem to communicate things outside of the grasp of rational inquiry. I also like playing around with open-source software (this website uses the template [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) edited with [Doom Emacs](https://github.com/doomemacs/doomemacs) in [Ubuntu](https://ubuntu.com)) and doing graphic design work for anybody who needs it. 
-{% endcomment %}
+{% endcomment %} 

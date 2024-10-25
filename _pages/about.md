@@ -19,4 +19,4 @@ I intend to pursue graduate school in philosophy starting Fall 2025. I am lookin
 
 ### What does the __J__ stand for?
 
-I don't have a legal middle name. The 'J' stands for my Chinese name, "Jiu tian" (九天), and for my confirmation saint, St. John the Evangelist.
+I don't have a legal middle name. The 'J' stands for my Chinese name, "Jiu tian" (九天), and for my confirmation name, John, after St. John the Evangelist.

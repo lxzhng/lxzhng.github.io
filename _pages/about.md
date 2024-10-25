@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 ---
 
-###Bio
+### Bio
 
 I'm Alexander Zhang, an undergraduate at the University of Illinois studying CS and philosophy. Some exciting things I am involved in:
 * Philosophy course design with Professor John Schwenkler for a new introductory-level course on human flourishing in the digital age.
@@ -17,6 +17,6 @@ I intend to pursue graduate school in philosophy starting Fall 2025. I am lookin
 
 ---
 
-###What does the __J__ stand for?
+### What does the __J__ stand for?
 
 I don't have a legal middle name. The 'J' stands for my Chinese name, "Jiu tian" (九天), and for my confirmation saint, St. John the Evangelist.

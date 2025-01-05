@@ -1,20 +1,24 @@
 .home-intro {
-  margin: 4em auto 3em;
+  margin: 8em auto 4em;
   text-align: center;
   max-width: 800px;
 }
 
 .site-title-main {
-  font-family: "Playfair Display", Georgia, serif;
-  font-size: 3.5em;
-  font-weight: normal;
+  font-family: "Baskerville", "Libre Baskerville", Georgia, serif;
+  font-size: 4.5em;
+  font-weight: 300;
   line-height: 1.2;
   margin-bottom: 0.5em;
+  letter-spacing: -0.02em;
+  color: #2b2b2b;
 }
 
 .home-description {
-  font-family: Georgia, serif;
-  font-size: 1.2em;
+  font-family: "Baskerville", Georgia, serif;
+  font-size: 1.3em;
   color: #666;
   font-style: italic;
+  font-weight: 300;
+  letter-spacing: 0.01em;
 } 

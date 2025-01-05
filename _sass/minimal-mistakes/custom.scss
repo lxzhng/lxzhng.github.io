@@ -1,1 +1,20 @@
- 
+.home-intro {
+  margin: 4em auto 3em;
+  text-align: center;
+  max-width: 800px;
+}
+
+.site-title-main {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 3.5em;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+}
+
+.home-description {
+  font-family: Georgia, serif;
+  font-size: 1.2em;
+  color: #666;
+  font-style: italic;
+} 
